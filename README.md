@@ -12,5 +12,5 @@ Para usuarios Windows instalar nesta ordem.
  Vá em https://www.vagrantup.com/ e clique em Find Boxes; 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102194815/168937523-0a6c20e1-3cfa-42c3-9313-6eb3f1bdc857.png" width="70px" />
+<img src="https://user-images.githubusercontent.com/102194815/168937523-0a6c20e1-3cfa-42c3-9313-6eb3f1bdc857.png" width="700px" />
 </div>
